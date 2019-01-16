@@ -1,0 +1,1 @@
+app.client.request(undefined,'/ping','GET',undefined,undefined,function(statusCode,payload){console.log(statusCode,payload)});
